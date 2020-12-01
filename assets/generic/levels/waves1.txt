@@ -1,0 +1,21 @@
+w
+yak 10 fire
+w
+ass 10 earth
+w
+ass 10 ice
+yak 10 fire
+w
+yak 10 ice
+yak 10 earth
+w
+ass 15 fire
+w
+yak 12 fire
+ass 12 earth
+w
+ass 10 earth
+ass 10 fire
+ass 10 ice
+w
+hero 1 neutral
